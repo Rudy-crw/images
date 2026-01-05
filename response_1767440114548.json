@@ -1,0 +1,179 @@
+{
+  "success": true,
+  "products": {
+    "-Ohz1YgxvA4zTKdPDiH3": {
+      "category": "Yamaha",
+      "content": "<p>車輛介紹：新世代的 YZF-R7 繼承了 R 系列的競技 DNA，搭載廣受好評的 CP2 引擎，提供線性的扭力輸出。適合想要體驗仿賽姿勢但又不希望壓力太大的騎士。</p><p>配件支援：手機架、USB 充電、防倒球</p><p>專家評測：推薦搜尋 Bike-in 試駕影片觀看</p>",
+      "description": "689cc | 紅牌 | 仿賽 | 扭力大師 CP2 引擎",
+      "id": "-Ohz1YgxvA4zTKdPDiH3",
+      "imageUrl": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1547549647-3568ead37466?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1614165936126-2ed18e471b10?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "is_enabled": 1,
+      "origin_price": 4500,
+      "price": 3200,
+      "title": "Yamaha YZF-R7 2024",
+      "unit": "日"
+    },
+    "-Ohz1axzW8mSTdPvB7ZN": {
+      "category": "Honda",
+      "content": "<p>車輛介紹：Honda 獨有的 Neo Sports Café 風格，結合復古圓燈與現代科技。綿密的直列四缸聲浪是它的最大賣點，市區騎乘舒適，高轉速延伸性極佳。</p><p>配件支援：手機架、後箱(可選)、USB 充電</p><p>專家評測：推薦搜尋小老婆汽機車資訊網試駕影片</p>",
+      "description": "649cc | 紅牌 | 街車 | 經典直列四缸聲浪",
+      "id": "-Ohz1axzW8mSTdPvB7ZN",
+      "imageUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515777315835-281b94c9589f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "is_enabled": 1,
+      "origin_price": 3800,
+      "price": 2800,
+      "title": "Honda CB650R Neo Sports",
+      "unit": "日"
+    },
+    "-Ohz1bxj-tqPyx36B9L3": {
+      "category": "Suzuki",
+      "content": "<p>車輛介紹：Suzuki 的當家跑車，擁有強大的動力與優異的操控性。這是一台為了賽道而生的機器，適合進階騎士體驗極致的速度感。</p><p>配件支援：手機架、油箱貼</p><p>專家評測：推薦搜尋 Supermoto8 試駕影片</p>",
+      "description": "999cc | 紅牌 | 仿賽 | 公升級王者",
+      "id": "-Ohz1bxj-tqPyx36B9L3",
+      "imageUrl": "https://images.unsplash.com/photo-1625043484555-47841a754380?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1625043484555-47841a754380?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1558981285-6f0c94958bb6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1598209279122-8541213ae039?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "is_enabled": 1,
+      "origin_price": 5000,
+      "price": 3500,
+      "title": "Suzuki GSX-R1000",
+      "unit": "日"
+    },
+    "-Ohz1d3RAsdnEfQ73lPd": {
+      "category": "Kawasaki",
+      "content": "<p>車輛介紹：真正的中量級仿賽王者！636cc 引擎帶來的狂暴動力與萬轉聲浪，適合進階騎士與追求極致操控的熱血份子。</p><p>配件支援：手機架、車身防倒球、油箱止滑貼</p><p>專家評測：推薦搜尋 13N 試駕心得影片</p>",
+      "description": "636cc | 紅牌 | 仿賽 | 賽道 DNA 萬轉引擎",
+      "id": "-Ohz1d3RAsdnEfQ73lPd",
+      "imageUrl": "https://images.unsplash.com/photo-1605218427306-7220705a9643?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1605218427306-7220705a9643?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596516109370-29001ec8dc36?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "is_enabled": 1,
+      "origin_price": 5500,
+      "price": 4200,
+      "title": "Kawasaki Ninja ZX-6R",
+      "unit": "日"
+    },
+    "-Ohz1e1HHdEI5RankJdn": {
+      "category": "Husqvarna",
+      "content": "<p>車輛介紹：來自瑞典的獨特美學，黑箭 401 擁有輕巧的車身與充滿爆發力的單缸引擎。非常適合市區穿梭與輕度越野風格的騎士。</p><p>配件支援：手機架、油箱包、USB 充電</p><p>專家評測：推薦搜尋教士試駕影片</p>",
+      "description": "373cc | 黃牌 | Scrambler | 瑞典黑箭",
+      "id": "-Ohz1e1HHdEI5RankJdn",
+      "imageUrl": "https://images.unsplash.com/photo-1609801872621-03091e922765?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1609801872621-03091e922765?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1622185135505-2d795043906a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1558980394-4c7c92998a42?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "is_enabled": 1,
+      "origin_price": 2500,
+      "price": 1800,
+      "title": "Husqvarna Svartpilen 401",
+      "unit": "日"
+    },
+    "-Ohz1f-ltBLLf_yLU23F": {
+      "category": "Triumph",
+      "content": "<p>車輛介紹：凱旋的三叉戟！結合了雙缸的扭力與四缸的延伸性，三缸引擎帶來獨特的騎乘感受。外型復古又不失現代感，是紳士騎士的首選。</p><p>配件支援：手機架、軟式側包、USB 充電</p><p>專家評測：推薦搜尋康康嘴機車試駕影片</p>",
+      "description": "660cc | 紅牌 | 街車 | 獨特三缸引擎魅力",
+      "id": "-Ohz1f-ltBLLf_yLU23F",
+      "imageUrl": "https://images.unsplash.com/photo-1622185135505-2d795043906a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1622185135505-2d795043906a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1605152276897-4f618f831968?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1571607548000-8041a72d3f44?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "is_enabled": 1,
+      "origin_price": 3800,
+      "price": 3000,
+      "title": "Triumph Trident 660",
+      "unit": "日"
+    },
+    "-OhzEglX3rEL8HBv4a8A": {
+      "category": "Honda",
+      "content": "<p>車輛介紹：Honda 旗艦美式機車，搭載 DCT 雙離合器變速箱，免拉離合器即可享受換檔樂趣。低座高設計讓雙腳輕鬆著地，擁有強大的扭力與獨特的排氣聲浪。</p><p>配件支援：手機架、側邊馬鞍包、USB 充電</p><p>專家評測：推薦搜尋 Supermoto8 Rebel 1100 試駕</p>",
+      "description": "1084cc | 紅牌 | 美式巡航 | DCT 雙離合器",
+      "id": "-OhzEglX3rEL8HBv4a8A",
+      "imageUrl": "請填入AI產出的主圖連結",
+      "imagesUrl": [
+        "請填入AI產出的側面圖連結",
+        "請填入AI產出的車尾圖連結",
+        "請填入AI產出的儀表圖連結",
+        "請填入AI產出的細節圖連結"
+      ],
+      "is_enabled": 1,
+      "origin_price": 4200,
+      "price": 3000,
+      "title": "Honda Rebel 1100 DCT",
+      "unit": "日"
+    },
+    "-OhzEjKe20ipHbD83Yaz": {
+      "category": "Yamaha",
+      "content": "<p>車輛介紹：速克達界的王者 TMAX！擁有如同檔車般的運動性能，同時具備電動風鏡、加溫手把與定速巡航等豪華配備。是雙載出遊最舒適的選擇。</p><p>配件支援：手機架、車箱大空間、USB 充電</p><p>專家評測：推薦搜尋 Bike-in TMAX 試駕影片</p>",
+      "description": "562cc | 紅牌 | 運動速克達 | 豪華配備王者",
+      "id": "-OhzEjKe20ipHbD83Yaz",
+      "imageUrl": "請填入AI產出的主圖連結",
+      "imagesUrl": [
+        "請填入AI產出的側面圖連結",
+        "請填入AI產出的車尾圖連結",
+        "請填入AI產出的儀表圖連結",
+        "請填入AI產出的細節圖連結"
+      ],
+      "is_enabled": 1,
+      "origin_price": 4000,
+      "price": 2800,
+      "title": "Yamaha TMAX 560 Tech MAX",
+      "unit": "日"
+    },
+    "-OhzEmD_5paHpyJLXV5b": {
+      "category": "Suzuki",
+      "content": "<p>車輛介紹：被譽為公路冒險神車！V型雙缸引擎帶來舒適的震動與充沛的扭力。配備鋼絲框與護弓，加上舒適的直立騎姿，是長途環島的最佳夥伴。</p><p>配件支援：手機架、三箱(後箱+側箱)、保桿</p><p>專家評測：推薦搜尋 13N V-Strom 試駕</p>",
+      "description": "645cc | 紅牌 | 多功能車 | 公路冒險首選",
+      "id": "-OhzEmD_5paHpyJLXV5b",
+      "imageUrl": "請填入AI產出的主圖連結",
+      "imagesUrl": [
+        "請填入AI產出的側面圖連結",
+        "請填入AI產出的車尾圖連結",
+        "請填入AI產出的儀表圖連結",
+        "請填入AI產出的細節圖連結"
+      ],
+      "is_enabled": 1,
+      "origin_price": 3600,
+      "price": 2600,
+      "title": "Suzuki V-Strom 650XT",
+      "unit": "日"
+    },
+    "-OhzEqaD1dMlm9fuTvnD": {
+      "category": "Kawasaki",
+      "content": "<p>車輛介紹：完美致敬 70 年代傳奇名車 Z1。擁有現代化的水冷四缸引擎與循跡系統，卻保留了經典的圓燈、水滴型油箱與雙環儀表。是兼具情懷與性能的藝術品。</p><p>配件支援：手機架、防倒球</p><p>專家評測：推薦搜尋 小老婆 Z900RS 試駕</p>",
+      "description": "948cc | 紅牌 | 復古街車 | 致敬傳奇 Z1",
+      "id": "-OhzEqaD1dMlm9fuTvnD",
+      "imageUrl": "請填入AI產出的主圖連結",
+      "imagesUrl": [
+        "請填入AI產出的側面圖連結",
+        "請填入AI產出的車尾圖連結",
+        "請填入AI產出的儀表圖連結",
+        "請填入AI產出的細節圖連結"
+      ],
+      "is_enabled": 1,
+      "origin_price": 4800,
+      "price": 3600,
+      "title": "Kawasaki Z900RS",
+      "unit": "日"
+    }
+  }
+}
